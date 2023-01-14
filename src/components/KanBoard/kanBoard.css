@@ -1,0 +1,16 @@
+.kan-board{
+    border: 1px solid #000000;
+    height: 400px;
+}
+
+.heading{
+    background-color: #ff6347;
+    padding: 5px 40px ;
+    width: 200px;
+    height: 40px;
+    text-align:center;
+    color: #444444;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
